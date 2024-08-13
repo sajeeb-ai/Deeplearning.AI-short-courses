@@ -1,4 +1,4 @@
-# Deeplearning.AI-short-courses
+# Deeplearning.AI
 
 1. AI Python for Beginners: Basics of AI Python Coding
 
