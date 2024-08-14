@@ -4,4 +4,4 @@
 
   (all code are available in the AI python for beginners.zip file)
 
-3. ChatGPT Prompt Engineering for Developers
+2. ChatGPT Prompt Engineering for Developers (instruction tune LLM)
